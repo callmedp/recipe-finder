@@ -1,9 +1,13 @@
+//# sourceMappingURL=static/js/[name].[contenthash:8].chunk.js.map
+// HomeChunk.ca8ef96c.chunk.js.map
 import React from "react";
 import { Link } from "react-router-dom";
 import { Button } from "semantic-ui-react";
 import Header from "../layout/Header";
 
 function Home() {
+
+
   return (
     <Header bgClass="bg-image" title="Amazing Recipes">
       <Button

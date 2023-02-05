@@ -4,6 +4,8 @@ import { Link } from "react-router-dom";
 import Header from "../layout/Header";
 
 function DefaultPage() {
+  const a = {}
+  a.push(3)
   return (
     <Header bgClass="bg-default-image" title="404">
       <p className="sub-text">You are in the wrong place</p>
